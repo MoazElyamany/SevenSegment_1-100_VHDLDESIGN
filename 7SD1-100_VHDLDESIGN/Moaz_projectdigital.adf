@@ -1,0 +1,75 @@
+[Project]
+Current Flow=Generic
+VCS=0
+version=1
+Current Config=compile
+
+[Configurations]
+compile=Moaz
+
+[Library]
+project=.\project.LIB
+
+[$LibMap$]
+project=.
+Active_lib=
+moaz=.
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+FLOWTOOLS=NONE
+REFRESH_FLOW=1
+FAMILY=
+IMPL_TOOL=
+SYNTH_TOOL=
+CDebugWatchList=
+
+[Groups]
+TestBench=1
+
+[HierarchyViewer]
+SortInfo=u
+HierarchyInformation=bcd_tb|tb_architecture|0 
+ShowHide=ShowTopLevel
+Selected=
+
+[Folders]
+Name3=Makefiles
+Directory3=C:\Users\M_Z\Music\Moaz\
+Extension3=mak
+Name4=Memory
+Directory4=C:\Users\M_Z\Music\Moaz\src
+Extension4=mem;mif;hex
+Name5=Dll Libraries
+Directory5=C:\Users\M_Z\Music\Moaz\
+Extension5=dll
+Name6=PDF
+Directory6=C:\Users\M_Z\Music\Moaz\
+Extension6=pdf
+Name7=HTML
+Directory7=C:\Users\M_Z\Music\Moaz\
+Extension7=
+
+[Files]
+/project.vhd=-1
+/MOAZ_simulation.asdb=-1
+/..\..\..\vhdlproject1\MOAZ_simulation.awc=-1
+/ed.asdb=-1
+/ed.awc=-1
+/..\..\..\Desktop\k\pro.asdb=-1
+/..\..\..\Desktop\k\pro.awc=-1
+TestBench/bcd_TB.vhd=-1
+TestBench/bcd_TB_runtest.do=-1
+
+[Files.Data]
+.\src\project.vhd=VHDL Source Code
+.\src\MOAZ_simulation.asdb=Accelerated Waveform File
+.\..\..\vhdlproject1\MOAZ_simulation.awc=Accelerated Waveform Configuration
+.\src\ed.asdb=Accelerated Waveform File
+.\src\ed.awc=Accelerated Waveform Configuration
+.\..\..\Desktop\k\pro.asdb=Accelerated Waveform File
+.\..\..\Desktop\k\pro.awc=Accelerated Waveform Configuration
+.\src\TestBench\bcd_TB.vhd=VHDL Test Bench
+.\src\TestBench\bcd_TB_runtest.do=Macro
+

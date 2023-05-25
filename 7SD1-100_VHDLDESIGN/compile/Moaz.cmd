@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\digital\library.cfg"  -j "D:\project\Moaz\projlib.cfg"  -d "D:\project\Moaz\compile"   -work Moaz  -dbg -e 100 -2002 "D:\\project\\Moaz\\src\\TestBench\\bcd_TB.vhd" 

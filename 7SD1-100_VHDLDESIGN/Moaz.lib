@@ -1,0 +1,40 @@
+timestamp=1641055411771
+
+[bcd]
+A/rtl=A/RTL 21|./src/project.vhd|17|1*515247
+B/rtl=3*5744433
+I=0*909350
+I/rtl=I/RTL 0*1080120
+M=11|0|v147|1640996644139|./src/project.vhd|0*908914*0x551fe0c57deaa7a9d5575884c620c4483233cda6|0*909282*0x7bd7e13dc0415552f89596087806a8cf
+M/rtl=M/RTL 21|0|v147|1641055379902|./src/project.vhd|0*1078642*0x73990553b542513db5bd0c4c8abd5e2d09646f0f|0*1080045*0x7bd7e13dc0415552f89596087806a8cf
+R=./src/project.vhd|6
+
+[bcd_tb]
+A/tb_architecture=A/TB_ARCHITECTURE 21|./src/TestBench/bcd_TB.vhd|11|1*518249
+B/tb_architecture=3*5751560
+I=0*7912
+I/tb_architecture=I/TB_ARCHITECTURE 0*1098206
+M=11|0|v147|1640973186603|./src/TestBench/bcd_TB.vhd|0*7620*0x73851eeb4d949690b848527213fb48b05e1c11a3|0*7832*0x7bd7e13dc0415552f89596087806a8cf
+M/tb_architecture=M/TB_ARCHITECTURE 21|0|v147|1641055411187|./src/TestBench/bcd_TB.vhd|0*1080355*0x8bfeece245deb46a6ab13e11705237527aba6bf9|0*1098107*0x7bd7e13dc0415552f89596087806a8cf
+R=./src/TestBench/bcd_TB.vhd|8
+
+[testbench_for_bcd]
+E=1*521082
+I=0*1098837
+M=2|0|v147|1641055411249|./src/TestBench/bcd_TB.vhd|0*1098506*0xfd918d4c7abf548451f740208cf01dc8b3634e2a|0*1098737*0x7bd7e13dc0415552f89596087806a8cf
+R=./src/TestBench/bcd_TB.vhd|1569
+
+[~A]
+ModifyID=1171
+Version=73
+
+[~MFT]
+0=1252|0project.mgf|1098837|1076238
+1=520|1project.mgf|521082|515247
+3=323|3project.mgf|5751560|5744433
+
+[~U]
+bcd=11|0*908673|
+bcd_tb=11|0*7561|
+testbench_for_bcd=TESTBENCH_FOR_bcd 2||
+

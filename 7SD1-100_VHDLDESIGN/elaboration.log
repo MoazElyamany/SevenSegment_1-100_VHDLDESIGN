@@ -1,0 +1,19 @@
+elbread.dll ver. 1.0.5.375 Sat Jan 01 18:46:07 2022
+
+
+-----------------------------------
+Entity  | Architecture    | Library
+-----------------------------------
+bcd_tb  | tb_architecture | moaz
+bcd     | rtl             | moaz
+-----------------------------------
+
+-----------------------------
+Package             | Library
+-----------------------------
+standard            | std
+textio              | std
+std_logic_1164      | ieee
+std_logic_arith     | ieee
+std_logic_unsigned  | ieee
+-----------------------------

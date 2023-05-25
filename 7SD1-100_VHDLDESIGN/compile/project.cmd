@@ -1,0 +1,1 @@
+-w -s "c:\My_Designs\digital\library.cfg"  -j "c:\My_Designs\digital\project\projlib.cfg"  -d "c:\My_Designs\digital\project\compile"   -work project  -dbg -e 100 -2002 "c:\\My_Designs\\digital\\project\\src\\TestBench\\bcd_TB.vhd" 

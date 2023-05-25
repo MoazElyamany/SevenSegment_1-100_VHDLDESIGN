@@ -1,0 +1,1 @@
+-w -s "C:\Users\M_Z\Music\Moaz\library.cfg"  -j "C:\Users\M_Z\Music\Moaz\projlib.cfg"  -d "C:\Users\M_Z\Music\Moaz\compile"   -work Moaz  -dbg -e 100 -2002 "C:\\Users\\M_Z\\Music\\Moaz\\src\\TestBench\\bcd_TB.vhd" 

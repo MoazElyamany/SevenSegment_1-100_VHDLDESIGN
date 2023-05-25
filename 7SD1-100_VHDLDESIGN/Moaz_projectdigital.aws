@@ -1,0 +1,14 @@
+[Version]
+Version=8.1
+[Designs]
+Moaz_projectdigital=Moaz_projectdigital.adf
+[Settings]
+Active=Moaz_projectdigital
+[Expand]
+moaz_projectdigital=1
+[Browser]
+sort=order
+mode=none
+[Order]
+order=1
+macro=

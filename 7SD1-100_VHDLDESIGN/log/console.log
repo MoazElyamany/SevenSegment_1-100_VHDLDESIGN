@@ -1,0 +1,31 @@
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# Design Explorer: Shortcut to "C:\Users\M_Z\Desktop\k\Moaz_projectdigital\Moaz_projectdigital.aws" design added.
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+asim -advdataflow  bcd_tb tb_architecture
+# ELBREAD: Elaboration process.
+# ELBREAD: Elaboration time 0.0 [s].
+# asim: Stack memory: 32MB
+# asim: Retval memory: 32MB
+# KERNEL: Main thread initiated.
+# KERNEL: Kernel process initialization phase.
+# KERNEL: Time resolution set to 1ps.
+# ELAB2: Elaboration final pass...
+# ELAB2: Create instances ...
+# ELAB2: Create instances complete.
+# ELAB2: Elaboration final pass complete - time: 0.0 [s].
+# KERNEL: Kernel process initialization done.
+# Allocation: Simulator allocated 1873 kB (elbread=1023 elab2=565 kernel=284 sdf=0)
+# KERNEL: ASDB file was created in location C:\Users\M_Z\Desktop\k\Moaz_projectdigital\src\wave.asdb
+#  6:46 PM, Saturday, January 1, 2022
+#  Simulation has been initialized
+#  Selected Top-Level: bcd_tb (tb_architecture)
+# 6 signal(s) traced.
+run @4000ns
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /UUT,  Process: line__48.
+# KERNEL: WARNING: There is an 'U'|'X'|'W'|'Z'|'-' in an arithmetic operand, the result will be 'X'(es).
+# KERNEL: Time: 0 ps,  Iteration: 0,  Instance: /UUT,  Process: line__72.
+# KERNEL: stopped at time: 4 us
+#  Simulation has been stopped
